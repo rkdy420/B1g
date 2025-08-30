@@ -1,14 +1,21 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Redirecting...</title>
+  <script>
+    // Redirect to Telegram link
+    window.location.href = "https://t.me/rkdyiptv";
+  </script>
 </head>
 <body>
-<script>
-window.location.href = "https://t.me/rkdyiptv";
-</script>
+  <noscript>
+    <meta http-equiv="refresh" content="0; url=https://t.me/rkdyiptv">
+    <p>If you are not redirected, <a href="https://t.me/rkdyiptv">click here</a>.</p>
+  </noscript>
+</body>
 </html>
-<noscript>
-</noscript>
-
 #EXTM3U
 #EXTINF:-1 tvg-id="425732" tvg-name="CineMania Gold 4K" tvg-logo="http://b1g.fun/logos2/CineMania4K_gold.jpg" group-title="24/7 CineMania",CineMania Gold 4K
 http://b1g.ooo/200/230/425732
@@ -18517,3 +18524,4 @@ http://b1g.ooo/200/230/615516
 #EXTINF:-1 tvg-id="615517" tvg-name="US GAC Living (S)" tvg-logo="https://i.ibb.co/VWVcf4t5/RKDYIPTV.jpg" group-title="US | Movies",US GAC Living (S)
 http://b1g.ooo/200/230/615517
 #EXTINF:-1 tvg-id="60
+
